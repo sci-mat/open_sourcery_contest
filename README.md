@@ -23,7 +23,7 @@ git clone <repository_url>
    ```bash
    git add names.txt
    git commit -m "Added my name to names.txt"
-   git push origin add-name-<your_name>
+   git push origin main
    ```
 
 ---
