@@ -1,6 +1,5 @@
 # 🌟 Open Sourcery GitHub Contest 🌟
 
-Welcome to the Open Sourcery GitHub Contest! 🚀 This contest will test your skills in Git and GitHub, including collaboration, branching, conflict resolution, and pushing code. Complete the tasks below and showcase your GitHub prowess! Good luck! 🍀
 
 ## 📋 Contest Tasks
 
@@ -57,7 +56,7 @@ git clone <repository_url>
 
 ## 🏆 Submission Checklist
 - [ ] Cloned the repository
-- [ ] Added name and batch to names.txt
+- [ ] Added name and batch to names.txt and then push to main branch only
 - [ ] Created a new branch and added a code file
 - [ ] Pushed all changes to respective branches
 
