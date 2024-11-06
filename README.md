@@ -16,12 +16,7 @@ git clone <repository_url>
 
 1. Open the names.txt file in your editor.
 2. Add your name and batch at the bottom of the list. 🚫 Do not edit or remove existing entries.
-3. Create a new branch for this change:
-
-   ```bash
-   git branch add-name-<your_name>
-   git checkout add-name-<your_name>
-   ```
+3. Commit this change in the main branch.
 
 4. Save your changes, add, commit, and push to GitHub:
 
